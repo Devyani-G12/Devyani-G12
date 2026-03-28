@@ -50,7 +50,6 @@ Designed an interactive JavaScript-based memory game
 ---
 
 ## 📊 GitHub Analytics
-## 📊 GitHub Analytics
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Devyani-G12&theme=github_dark" />
