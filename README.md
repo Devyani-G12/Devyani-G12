@@ -1,16 +1,66 @@
 ## Hi there 👋
 
-<!--
-**Devyani-G12/Devyani-G12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<# Devyani Goraksha
 
-Here are some ideas to get you started:
+Engineer focused on building practical systems and improving through real-world projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About
+- Computer Engineering Student  
+- Interested in AI/ML and Web Development  
+- Learning by building and solving problems  
+
+---
+
+## Current Focus
+- Azure-based Demand Forecasting System  
+- Voice-Based Coding Assistant (ML Project)  
+- Data Structures and Problem Solving  
+
+---
+
+## Tech Stack
+
+**Languages:**  
+C, C++, Java, Python, JavaScript  
+
+**Development:**  
+HTML, CSS, Bootstrap, Flask  
+
+**Tools:**  
+Git, GitHub, VS Code, Jupyter Notebook  
+
+**Core:**  
+Data Structures, OOP, Problem Solving  
+
+---
+
+## Projects
+
+**Demand Forecasting System**  
+ML-based system using ARIMA and XGBoost  
+
+**Hands-Off Coding**  
+Voice-based coding assistant using Whisper and NLP  
+
+**PatternFlow Game**  
+Interactive JavaScript memory game  
+
+---
+
+## GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Devyani-G12&show_icons=true)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Devyani-G12&layout=compact)
+
+---
+
+## Connect
+LinkedIn: https://linkedin.com/in/devyani-goraksha-657bb6334  
+
+---
+
+## Note
+Focused on consistent learning, clean implementation, and practical development.
