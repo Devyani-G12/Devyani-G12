@@ -1,66 +1,71 @@
-## Hi there 👋
+<div align="center">
 
-<# Devyani Goraksha
+# Devyani Goraksha  
+### 💻 Computer Engineering Student | 🤖 AI/ML | 🌐 Web Development  
 
-Engineer focused on building practical systems and improving through real-world projects.
-
----
-
-## About
-- Computer Engineering Student  
-- Interested in AI/ML and Web Development  
-- Learning by building and solving problems  
+</div>
 
 ---
 
-## Current Focus
-- Azure-based Demand Forecasting System  
-- Voice-Based Coding Assistant (ML Project)  
-- Data Structures and Problem Solving  
+## 🚀 Profile
+Focused on building practical systems using machine learning and web technologies.  
+Interested in solving real-world problems through structured and scalable solutions.
 
 ---
 
-## Tech Stack
-
-**Languages:**  
-C, C++, Java, Python, JavaScript  
-
-**Development:**  
-HTML, CSS, Bootstrap, Flask  
-
-**Tools:**  
-Git, GitHub, VS Code, Jupyter Notebook  
-
-**Core:**  
-Data Structures, OOP, Problem Solving  
+## 🔭 Current Work
+- Azure-based Demand Forecasting and Capacity Optimization  
+- Voice-Based Coding Assistant using Speech-to-Text and NLP  
+- Strengthening Data Structures and Algorithmic thinking  
 
 ---
 
-## Projects
+## 🛠️ Technical Skills
 
-**Demand Forecasting System**  
-ML-based system using ARIMA and XGBoost  
+**Programming**  
+C | C++ | Java | Python | JavaScript  
 
-**Hands-Off Coding**  
-Voice-based coding assistant using Whisper and NLP  
+**Development**  
+HTML | CSS | Bootstrap | Flask  
+
+**Tools**  
+Git | GitHub | VS Code | Jupyter Notebook  
+
+**Core Concepts**  
+Data Structures | OOP | Problem Solving  
+
+---
+
+## 📌 Key Projects
+
+**Azure Demand Forecasting System**  
+Developed a cloud-based forecasting system using ARIMA and XGBoost  
+
+**Hands-Off Coding System**  
+Built a voice-based coding assistant using Whisper and NLP  
 
 **PatternFlow Game**  
-Interactive JavaScript memory game  
+Designed an interactive JavaScript-based memory game  
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Devyani-G12&show_icons=true&theme=tokyonight)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Devyani-G12&layout=compact&theme=tokyonight)
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=Devyani-G12&show_icons=true&theme=tokyonight"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devyani-G12&layout=compact&theme=tokyonight"/>
 
----
-
-## Connect
-LinkedIn: https://linkedin.com/in/devyani-goraksha-657bb6334  
+</div>
 
 ---
 
-## Note
-Focused on consistent learning, clean implementation, and practical development.
+## 🔗 Connect
+
+💼 LinkedIn  
+https://linkedin.com/in/devyani-goraksha-657bb6334  
+
+---
+
+## ⚡ Statement
+Learning continuously, building consistently, and improving through real-world projects.
