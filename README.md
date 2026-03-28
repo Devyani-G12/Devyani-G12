@@ -51,12 +51,10 @@ Designed an interactive JavaScript-based memory game
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=Devyani-G12&show_icons=true&theme=tokyonight"/>
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devyani-G12&layout=compact&theme=tokyonight"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Devyani-G12&show_icons=true&theme=tokyonight&cache_seconds=1800" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devyani-G12&layout=compact&theme=tokyonight&cache_seconds=1800" height="150"/>
+</p>
 
 ---
 
