@@ -51,9 +51,9 @@ Interactive JavaScript memory game
 
 ## GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Devyani-G12&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Devyani-G12&show_icons=true&theme=tokyonight)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Devyani-G12&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Devyani-G12&layout=compact&theme=tokyonight)
 
 ---
 
