@@ -107,18 +107,23 @@ I'm a final-year Computer Engineering student with an interest in software devel
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Analytics 
 
-<div align="center">
+<div align="center"> 
+  
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Devyani-G12&show_icons=true&theme=github_dark&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devyani-G12&layout=compact&theme=github_dark&hide_border=true"/> 
+  
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devyani-G12&layout=compact&theme=github_dark&hide_border=true"/>
 </div>
 
 <br>
 
-<div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Devyani-G12&theme=github_dark"/>
+<div align="center"> 
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Devyani-G12&theme=github_dark"/>
+
 </div>
+
 
 ---
 
