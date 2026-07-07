@@ -94,10 +94,6 @@ I'm a final-year Computer Engineering student with an interest in software devel
 `Data Structures & Algorithms` • `Object-Oriented Programming` • `DBMS` • `Computer Networks`
 
 
-### Core Concepts
-
-`Data Structures & Algorithms` • `Object-Oriented Programming` • `DBMS` • `Computer Networks`
-
 ---
 
 # 🚀 Featured Projects
