@@ -1,13 +1,12 @@
-
 <div align="center">
 
 # Hi, I'm Devyani Goraksha 👋
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student;Building+Software+Projects;Exploring+AI%2FML+%26+Full-Stack+Development;Always+Learning+Something+New" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Building+Software+Projects;Exploring+AI%2FML+%26+Full-Stack+Development;Always+Learning+Something+New" />
 </p>
 
-### 💻 Computer Engineering Student | 🚀 Software Development | 🤖 AI/ML
+### 💻 Computer Engineering Student • 🚀 Software Development • 🤖 AI/ML
 
 <p>
   <a href="https://linkedin.com/in/devyani-goraksha-657bb6334">
@@ -21,7 +20,7 @@
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Devyani-G12&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Devyani-G12&label=Profile+Views&color=0969DA&style=flat-square"/>
 
 </div>
 
@@ -29,7 +28,9 @@
 
 # 👩‍💻 About Me
 
-I'm a final-year Computer Engineering student with an interest in software development, AI/ML, cloud computing, and full-stack development. I enjoy building practical applications through projects and internships while continuously improving my programming, problem-solving, and software engineering skills.
+I'm a final-year Computer Engineering student passionate about building practical software through projects and continuous learning.
+
+My interests include **Software Development**, **AI/ML**, **Cloud Computing**, and **Full-Stack Development**. I enjoy exploring new technologies and applying them to build useful, real-world applications.
 
 ---
 
@@ -47,10 +48,9 @@ I'm a final-year Computer Engineering student with an interest in software devel
 
 # 🛠️ Tech Stack
 
-
 <table align="center">
 <tr>
-<td align="center" width="180">
+<td align="center">
 
 ### 💻 Languages
 
@@ -58,14 +58,13 @@ I'm a final-year Computer Engineering student with an interest in software devel
 
 </td>
 
-<td align="center" width="220">
+<td align="center">
 
 ### 🌐 Frontend
 
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
 
 </td>
-
 </tr>
 
 <tr>
@@ -84,15 +83,12 @@ I'm a final-year Computer Engineering student with an interest in software devel
 <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
 
 </td>
-
 </tr>
-
 </table>
 
 ### 📚 Core Concepts
 
 `Data Structures & Algorithms` • `Object-Oriented Programming` • `DBMS` • `Computer Networks`
-
 
 ---
 
@@ -100,34 +96,37 @@ I'm a final-year Computer Engineering student with an interest in software devel
 
 | Project | Description |
 |---------|-------------|
-| 🚀 **DevFlow AI** | Full-stack project management application with an AI-powered code explanation feature. |
-| 🎙️ **Hands-Off Coding** | Voice-based coding assistant using OpenAI Whisper and NLP. |
-| ☁️ **Azure-Based Demand Forecasting** | Machine learning forecasting system developed during an AI/ML internship. |
-| 🎮 **FocusTrack** | Simon-style memory game built using JavaScript. |
+| 🚀 **DevFlow AI** | Full-stack project management application with authentication, task management, and an AI-powered code explanation feature. |
+| 🎙️ **Hands-Off Coding** | Voice-based coding assistant built using Python, Flask, OpenAI Whisper, and NLP. |
+| ☁️ **Azure-Based Demand Forecasting** | Machine learning forecasting project developed during an AI/ML internship using ARIMA and XGBoost. |
+| 🎮 **FocusTrack** | Simon-style memory game built using HTML, CSS, and JavaScript. |
 
 ---
 
-# 📊 GitHub Analytics 
+# 📊 GitHub Analytics
+
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Devyani-G12&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devyani-G12&layout=compact&theme=github_dark&hide_border=true" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Devyani-G12&theme=github_dark" />
+
+<br><br>
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Devyani-G12&theme=github_dark" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Devyani-G12&theme=github_dark" />
+
+<br><br>
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Devyani-G12&theme=github_dark" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Devyani-G12&theme=github_dark&utcOffset=5.5" />
+
 </div>
-
-<br>
-
-<div align="center"> 
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Devyani-G12&theme=github_dark"/>
-
-</div>
-
 
 ---
 
 # 🌱 Currently Learning
 
-- React and FastAPI
-- Backend Development
+- React Ecosystem
+- FastAPI & Backend Development
 - Data Structures & Algorithms
 - Machine Learning Fundamentals
 - Cloud Computing
@@ -143,7 +142,7 @@ I'm a final-year Computer Engineering student with an interest in software devel
 </a>
 
 <a href="https://medium.com/@gorakshadevyani">
-<img src="https://img.shields.io/badge/Medium-Read%20Articles-black?logo=medium&logoColor=white"/>
+<img src="https://img.shields.io/badge/Medium-Read_Articles-black?logo=medium&logoColor=white"/>
 </a>
 
 </p>
@@ -152,7 +151,6 @@ I'm a final-year Computer Engineering student with an interest in software devel
 
 <div align="center">
 
-
 ### *Code. Learn. Iterate.*
-</div>
 
+</div>
