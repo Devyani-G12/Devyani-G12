@@ -1,71 +1,83 @@
+```markdown
 <div align="center">
 
-# Devyani Goraksha  
-### 💻 Computer Engineering Student | 🤖 AI/ML | 🌐 Web Development  
+# Hi, I'm Devyani Goraksha 👋
+
+### 💻 Computer Engineering Student | 🚀 Software Development | 🤖 AI/ML
+
+<p>
+  <a href="https://linkedin.com/in/devyani-goraksha-657bb6334">LinkedIn</a> •
+  <a href="https://github.com/Devyani-G12">GitHub</a> •
+  <a href="https://medium.com/@gorakshadevyani">Medium</a>
+</p>
 
 </div>
 
 ---
 
-## 🚀 Profile
-Focused on building practical systems using machine learning and web technologies.  
-Interested in solving real-world problems through structured and scalable solutions.
+## 👩‍💻 About Me
+
+- 🎓 Final-year B.E. Computer Engineering student (CGPA: **8.6**)
+- 💡 Interested in Software Development, AI/ML, Cloud Computing, and Full-Stack Development
+- 🌱 Currently learning Data Structures & Algorithms, React, FastAPI, and Software Engineering fundamentals
+- 💻 Enjoy building practical applications through academic projects and internships
+- 📖 Always exploring new technologies and improving my development skills
 
 ---
 
-## 🔭 Current Work
-- Azure-based Demand Forecasting and Capacity Optimization  
-- Voice-Based Coding Assistant using Speech-to-Text and NLP  
-- Strengthening Data Structures and Algorithmic thinking  
+## 🚀 What I'm Working On
+
+- Building full-stack web applications
+- Strengthening Data Structures & Algorithms
+- Exploring AI/ML and cloud-based solutions
+- Contributing to personal projects and continuous learning
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-**Programming**  
-C | C++ | Java | Python | JavaScript  
+### Languages
+`Java` `Python` `C++` `C` `JavaScript`
 
-**Development**  
-HTML | CSS | Bootstrap | Flask  
+### Frontend
+`HTML` `CSS` `Bootstrap` `React`
 
-**Tools**  
-Git | GitHub | VS Code | Jupyter Notebook  
+### Backend
+`Flask` `FastAPI`
 
-**Core Concepts**  
-Data Structures | OOP | Problem Solving  
+### Database
+`MySQL`
 
----
+### Tools
+`Git` `GitHub` `VS Code` `Jupyter Notebook`
 
-## 📌 Key Projects
-
-**Azure Demand Forecasting System**  
-Developed a cloud-based forecasting system using ARIMA and XGBoost  
-
-**Hands-Off Coding System**  
-Built a voice-based coding assistant using Whisper and NLP  
-
-**PatternFlow Game**  
-Designed an interactive JavaScript-based memory game  
+### Core Concepts
+`Data Structures & Algorithms`
+`Object-Oriented Programming`
+`DBMS`
+`Computer Networks`
 
 ---
 
-## 📊 GitHub Analytics
+## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Devyani-G12&theme=github_dark" />
-</div> 
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Devyani-G12&theme=github_dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Devyani-G12&theme=github_dark" />
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Devyani-G12&theme=github_dark)
 
----
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Devyani-G12&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Devyani-G12&theme=github_dark)
 
-## 🔗 Connect
-
-💼 LinkedIn  
-https://linkedin.com/in/devyani-goraksha-657bb6334  
+</div>  
 
 ---
 
-## ⚡ Statement
-Learning continuously, building consistently, and improving through real-world projects.
+## 📫 Connect With Me
+
+- 💼 LinkedIn: https://linkedin.com/in/devyani-goraksha-657bb6334
+- ✍️ Medium: https://medium.com/@gorakshadevyani
+
+---
+
+> *Learning consistently, building practical software, and growing one project at a time.*
+```  
