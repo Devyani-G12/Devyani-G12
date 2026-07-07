@@ -47,9 +47,52 @@ I'm a final-year Computer Engineering student with an interest in software devel
 
 # 🛠️ Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,html,css,bootstrap,react,flask,fastapi,mysql,git,github,vscode&perline=7" />
-</p>
+
+<table align="center">
+<tr>
+<td align="center" width="180">
+
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js" />
+
+</td>
+
+<td align="center" width="220">
+
+### 🌐 Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
+
+</td>
+
+</tr>
+
+<tr>
+<td align="center">
+
+### ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=flask,fastapi" />
+
+</td>
+
+<td align="center">
+
+### 🗄️ Database & Tools
+
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
+
+</td>
+
+</tr>
+
+</table>
+
+### 📚 Core Concepts
+
+`Data Structures & Algorithms` • `Object-Oriented Programming` • `DBMS` • `Computer Networks`
+
 
 ### Core Concepts
 
@@ -115,6 +158,6 @@ I'm a final-year Computer Engineering student with an interest in software devel
 <div align="center">
 
 
-###> *Code. Learn. Iterate.*
+### *Code. Learn. Iterate.*
 </div>
 
