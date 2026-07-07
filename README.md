@@ -11,7 +11,7 @@
   <a href="https://medium.com/@gorakshadevyani">Medium</a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Devyani-G12&label=Profile%20Views&color=0e75b6&style=flat" />
+
 
 </div>
 
