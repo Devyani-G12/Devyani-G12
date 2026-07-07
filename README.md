@@ -108,12 +108,9 @@ I'm a final-year Computer Engineering student with an interest in software devel
 ---
 
 # 📊 GitHub Analytics 
-
-<div align="center"> 
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Devyani-G12&show_icons=true&theme=github_dark&hide_border=true"/>
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devyani-G12&layout=compact&theme=github_dark&hide_border=true"/>
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Devyani-G12&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devyani-G12&layout=compact&theme=github_dark&hide_border=true" />
 </div>
 
 <br>
