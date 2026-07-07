@@ -1,83 +1,85 @@
 ```markdown
 <div align="center">
 
-# Hi, I'm Devyani Goraksha 👋
-
+# Devyani Goraksha
 ### 💻 Computer Engineering Student | 🚀 Software Development | 🤖 AI/ML
-
-<p>
-  <a href="https://linkedin.com/in/devyani-goraksha-657bb6334">LinkedIn</a> •
-  <a href="https://github.com/Devyani-G12">GitHub</a> •
-  <a href="https://medium.com/@gorakshadevyani">Medium</a>
-</p>
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## 🚀 Profile
 
-- 🎓 Final-year B.E. Computer Engineering student (CGPA: **8.6**)
-- 💡 Interested in Software Development, AI/ML, Cloud Computing, and Full-Stack Development
-- 🌱 Currently learning Data Structures & Algorithms, React, FastAPI, and Software Engineering fundamentals
-- 💻 Enjoy building practical applications through academic projects and internships
-- 📖 Always exploring new technologies and improving my development skills
+Computer Engineering undergraduate with basic knowledge of AI/ML, cloud computing, and full-stack development gained through academic projects and internships. Interested in software development, building practical applications, and continuously improving programming and problem-solving skills.
 
 ---
 
-## 🚀 What I'm Working On
+## 🔭 Current Work
 
-- Building full-stack web applications
+- Building full-stack web applications using React and FastAPI
 - Strengthening Data Structures & Algorithms
-- Exploring AI/ML and cloud-based solutions
-- Contributing to personal projects and continuous learning
+- Exploring AI/ML and cloud-based applications
+- Continuously improving software development skills through personal projects
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-### Languages
-`Java` `Python` `C++` `C` `JavaScript`
+**Programming**  
+Java | Python | C++ | C | JavaScript
 
-### Frontend
-`HTML` `CSS` `Bootstrap` `React`
+**Development**  
+HTML | CSS | Bootstrap | React | Flask | FastAPI
 
-### Backend
-`Flask` `FastAPI`
+**Database**  
+MySQL
 
-### Database
-`MySQL`
+**Tools**  
+Git | GitHub | VS Code | Jupyter Notebook
 
-### Tools
-`Git` `GitHub` `VS Code` `Jupyter Notebook`
-
-### Core Concepts
-`Data Structures & Algorithms`
-`Object-Oriented Programming`
-`DBMS`
-`Computer Networks`
+**Core Concepts**  
+Data Structures & Algorithms | OOP | DBMS | Computer Networks | Problem Solving
 
 ---
 
-## 📈 GitHub Stats
+## 📌 Featured Projects
+
+**🚀 DevFlow AI**  
+Full-stack project management application with project/task management and an AI-powered code explanation feature.
+
+**🎙️ Hands-Off Coding**  
+Voice-based coding assistant built using Python, Flask, OpenAI Whisper, and NLP.
+
+**☁️ Azure-Based Demand Forecasting & Capacity Optimization**  
+Machine learning project developed during an AI/ML internship using ARIMA and XGBoost.
+
+**🎮 FocusTrack – Memory Game**  
+Simon-style memory game built using HTML, CSS, and JavaScript.
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Devyani-G12&theme=github_dark" />
+</div>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Devyani-G12&theme=github_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Devyani-G12&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Devyani-G12&theme=github_dark)
-
-</div>  
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Devyani-G12&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Devyani-G12&theme=github_dark" />
 
 ---
 
-## 📫 Connect With Me
+## 🔗 Connect
 
-- 💼 LinkedIn: https://linkedin.com/in/devyani-goraksha-657bb6334
-- ✍️ Medium: https://medium.com/@gorakshadevyani
+💼 LinkedIn  
+https://linkedin.com/in/devyani-goraksha-657bb6334
+
+✍️ Medium  
+https://medium.com/@gorakshadevyani
 
 ---
 
-> *Learning consistently, building practical software, and growing one project at a time.*
-```  
+## ⚡ Statement
+
+Learning continuously, building practical software, and growing through real-world projects and hands-on experience
+  ```
