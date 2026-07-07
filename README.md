@@ -7,23 +7,21 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student;Building+Software+Projects;Exploring+AI%2FML+%26+Full-Stack+Development;Always+Learning+Something+New" />
 </p>
 
-### 💻 Building Software • 🤖 Exploring AI • ☁️ Learning Cloud
+### 💻 Computer Engineering Student | 🚀 Software Development | 🤖 AI/ML
 
 <p>
   <a href="https://linkedin.com/in/devyani-goraksha-657bb6334">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
   </a>
-
   <a href="https://medium.com/@gorakshadevyani">
     <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white"/>
   </a>
-
   <a href="https://github.com/Devyani-G12">
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Devyani-G12&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=Devyani-G12&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
 </div>
 
@@ -31,18 +29,16 @@
 
 # 👩‍💻 About Me
 
-I'm a final-year Computer Engineering student who enjoys building practical software and learning by creating real-world projects.
-
-I like exploring software development, AI/ML, and cloud technologies while continuously improving my programming and problem-solving skills. Every project is an opportunity to learn something new.
+I'm a final-year Computer Engineering student with an interest in software development, AI/ML, cloud computing, and full-stack development. I enjoy building practical applications through projects and internships while continuously improving my programming, problem-solving, and software engineering skills.
 
 ---
 
 # 🔭 Current Focus
 
 ```text
-💻 Building    → Full-Stack Applications
+💻 Building    → Full-Stack Web Applications
 📚 Learning    → Data Structures & Algorithms
-🤖 Exploring   → AI/ML
+🤖 Exploring   → AI/ML & Backend Development
 ☁️ Practicing  → Cloud Fundamentals
 ✍️ Writing     → Technical Blogs on Medium
 ```
@@ -67,12 +63,12 @@ I like exploring software development, AI/ML, and cloud technologies while conti
 |---------|-------------|
 | 🚀 **DevFlow AI** | Full-stack project management application with an AI-powered code explanation feature. |
 | 🎙️ **Hands-Off Coding** | Voice-based coding assistant using OpenAI Whisper and NLP. |
-| ☁️ **Azure-Based Demand Forecasting** | Machine learning forecasting project developed during an AI/ML internship. |
-| 🎮 **FocusTrack** | Simon-style memory game built using HTML, CSS, and JavaScript. |
+| ☁️ **Azure-Based Demand Forecasting** | Machine learning forecasting system developed during an AI/ML internship. |
+| 🎮 **FocusTrack** | Simon-style memory game built using JavaScript. |
 
 ---
 
-# 📈 GitHub Analytics
+# 📊 GitHub Analytics
 
 <div align="center">
 
@@ -88,35 +84,19 @@ I like exploring software development, AI/ML, and cloud technologies while conti
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Devyani-G12&theme=github_dark"/>
 </div>
 
-<br>
-
-<div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Devyani-G12&theme=github_dark"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Devyani-G12&theme=github_dark"/>
-</div>
-
 ---
 
 # 🌱 Currently Learning
 
-- React Ecosystem
-- FastAPI & Backend Development
+- React and FastAPI
+- Backend Development
 - Data Structures & Algorithms
 - Machine Learning Fundamentals
-- Cloud Computing Basics
+- Cloud Computing
 
 ---
 
-# 💡 Outside of Coding
-
-- ✍️ Writing technical articles on Medium
-- 📖 Exploring new technologies
-- 🧩 Solving programming problems
-- 💻 Building personal projects to learn by doing
-
----
-
-# 🤝 Let's Connect
+# 🤝 Connect
 
 <p align="center">
 
@@ -134,7 +114,7 @@ I like exploring software development, AI/ML, and cloud technologies while conti
 
 <div align="center">
 
-### ✨ *"Turning ideas into code, one project at a time."*
 
+###> *Code. Learn. Iterate.*
 </div>
 
